@@ -1,3 +1,4 @@
+![Github Banner](https://github.com/ednaleiden/ednaleiden/blob/main/The%20Mobo%20IV.png)
 <div>
   <h1 align="center">Hi 👋, I'm Edna Leiden</h1>
 
