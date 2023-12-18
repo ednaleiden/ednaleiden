@@ -1,5 +1,11 @@
 <div>
   <h1 align="center">Hi 👋, I'm Edna Leiden</h1>
+
+  <!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 </div>
 <img src="https://github.com/ednaleiden/ednaleiden/blob/main/front.gif">
 <h3 align="center">8th and 9th semester systems and industrial engineering student passionate about programming with a focus on backend development with knowledge in frontend with 2 years of experience in programming languages ​​such as PHP, Java, Javascript, python frameworks such as Laravel, vue.js , Bootstrap, Django, flask, Springboot, unit testing in JUnit, web development oriented to CSS management. Java,spring boot ,Jakarta,JDBC,JPA,Java SE APX/ASO architectures Management of MongoDB, MySQL and SQL server databases. With a focus on Software Architecture and DevOps in high concurrency architectures, knowledge in New Relic, implementing continuous knowledge in cloud providers: GCP,AWS,AZURE,DIGITAL OCEAN cloud services: CI/CD Azure DevOps DinamoDB-AWS IAM-AWS EC2-AWS S3-AWS</h3>
