@@ -30,7 +30,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ednaleiden&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   
   <br></br>
-  <img src="https://streak-stats.demolab.com?user=ednaleiden&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ednaleiden&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </td>
 
 <td width="50%" align="center">
